@@ -1,0 +1,6 @@
+#logging:
+#  level:
+#    org:
+#      springframework: trace
+#    com:
+#      javatar: trace
